@@ -1,4 +1,4 @@
 home:
-  heading: "Your awesome heading"
+  heading: "tick"
   subheading: "Your awesome subheading"
-  banner: "Your image url"
+  banner: "../assets/images/banners/home.jpeg"  
